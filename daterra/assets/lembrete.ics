@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Compal Da Terra//QR//PT
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:daterra-novidade-20261119@compal-mz
+DTSTAMP:20261112T170000Z
+DTSTART:20261119T070000Z
+DTEND:20261119T071500Z
+SUMMARY:Compal Da Terra: a capulana tem uma novidade
+DESCRIPTION:Volta a ler o QR Code do teu Compal Da Terra. Há muito mais pa
+ ra descobrir.\nhttps://sumol-compal-mocambique-digital.github.io/cartoes-s
+ umolcompalmz/daterra/?src=lembrete
+URL:https://sumol-compal-mocambique-digital.github.io/cartoes-sumolcompalmz
+ /daterra/?src=lembrete
+BEGIN:VALARM
+TRIGGER:PT0M
+ACTION:DISPLAY
+DESCRIPTION:Compal Da Terra: a capulana tem uma novidade
+END:VALARM
+END:VEVENT
+END:VCALENDAR
